@@ -1,2 +1,2 @@
-# minimal-interface
-Extremely minimal roblox UI library, just pages and buttons.
+TODO: Check for ability to parent to CoreGui
+Add settings to change color accents, transparency, and images
